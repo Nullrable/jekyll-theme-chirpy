@@ -1,5 +1,5 @@
 ---
-title: Jacoco覆盖率报告解读.
+title: 解决Http Code 414 (Request—URI Too Large) 错误
 author: nhsoft.lsd
 date: 2022-08-03
 categories: [故障解决,IO,TCP]
