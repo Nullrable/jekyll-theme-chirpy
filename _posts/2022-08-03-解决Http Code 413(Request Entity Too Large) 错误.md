@@ -2,7 +2,7 @@
 title: 解决Http Code 413(Request Entity Too Large) 错误
 author: nhsoft.lsd
 date: 2022-08-03
-categories: [故障解决,IO,TCP]
+categories: [故障解决,IO]
 tags: [BugFix]
 pin: true
 ---
