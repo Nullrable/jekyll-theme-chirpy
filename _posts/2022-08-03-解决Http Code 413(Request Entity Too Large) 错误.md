@@ -4,7 +4,7 @@ author: nhsoft.lsd
 date: 2022-08-03
 categories: [故障解决,IO]
 tags: [BugFix]
-pin: true
+pin: false
 ---
 
 # Fix 413 Request Entity Too Large
