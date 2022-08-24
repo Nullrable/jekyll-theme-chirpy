@@ -1,5 +1,5 @@
 ---
-title: k8s环境安装
+title: Kubernetes环境安装
 author: nhsoft.lsd
 date: 2022-08-17
 categories: [Kubernetes]
