@@ -206,7 +206,7 @@ Horizontal Pod Autoscaling 简称 HPA，意思是 Pod 横向自动扩容，与�
 ### 3.8.1 概述
 Service也是Kubernetes里的最核心的资源对象之一，Kubernetes里的每个Service其实就是我们经常提起的微服务架构中的一个"微服务"，
 之前我们所说的Pod、RC等资源对象其实都是为这节所说的“服务”————Kubernetes Service做“嫁衣”的。
-![](../assets/img/nhsoft_lsd/2022-08-29-k8s-service.png)
+![](/assets/img/nhsoft_lsd/2022-08-29-k8s-service.png)
 
 ```yaml
 apiVersion: v1
