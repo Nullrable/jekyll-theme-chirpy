@@ -5,7 +5,7 @@ date: 2022-08-17
 categories: [Kubernetes]
 tags: [Kubernetes,Docker]
 pin: false
-order:2
+order: 2
 ---
 
 # 1. 安装Docker
