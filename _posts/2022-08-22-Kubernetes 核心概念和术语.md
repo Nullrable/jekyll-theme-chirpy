@@ -12,7 +12,7 @@ pin: false
 Kubernetes 这个名字源于希腊语，意为“舵手”或“飞行员”。k8s 这个缩写是因为 k 和 s 之间有八个字符的关系。 Google 在 2014 年开源了 Kubernetes 项目。 Kubernetes 建立在Google 大规模运行生产工作负载十几年经验的基础上， 结合了社区中最优秀的想法和实践。
 
 ## 时光回溯
-![img.png](../assets/img/nhsoft_lsd/2022-08-29-img.png)
+![](/assets/img/nhsoft_lsd/2022-08-29-img.png)
 
 ### 传统部署时代：
 
