@@ -80,7 +80,7 @@ subjects:
     namespace: kubernetes-dashboard
 ```
 
-### 5.3.2 [执行配置文件](file:/assets/img/nhsoft_lsd/dashboard-admin.yml)
+### 5.3.2 [执行配置文件](/assets/img/nhsoft_lsd/dashboard-admin.yml)
 ```shell
 # 创建 ServiceAccount kubernetes-dashboard-admin 并绑定集群管理员权限
 kubectl apply -f dashboard-admin.yml
