@@ -8,7 +8,7 @@ pin: false
 ---
 
 # 架构设计
-![img_1.png](img_1.png)
+![img_1.png](../assets/img/nhsoft_lsd/2022-09-07-img_1.png)
 
 # 1. Master 节点上的程序
 
