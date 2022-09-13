@@ -10,7 +10,7 @@ pin: false
 # 架构设计
 ![](/assets/img/nhsoft_lsd/2022-09-07-img_1.png)
 
-![](/assets/img/nhsoft_lsd/2022-09-14-img.png)
+![](/assets/img/nhsoft_lsd/2022-09-13-img.png)
 
 ## 1. Master 节点上的程序
 
