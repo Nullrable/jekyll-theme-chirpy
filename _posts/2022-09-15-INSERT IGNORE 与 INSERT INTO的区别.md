@@ -1,6 +1,7 @@
 ---
 title: INSERT IGNORE 与 INSERT INTO的区别
 author: nhsoft.lsd
+date: 2022-09-15
 categories: [MySQL]
 tags: [MySQL,数据库]
 pin: false

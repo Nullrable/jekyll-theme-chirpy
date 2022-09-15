@@ -1,6 +1,7 @@
 ---
 title: MySQL order by
 author: nhsoft.lsd
+date: 2022-09-15
 categories: [MySQL]
 tags: [MySQL,数据库]
 pin: false
