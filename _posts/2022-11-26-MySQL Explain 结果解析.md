@@ -98,5 +98,5 @@ Extra是EXPLAIN输出中另外一个很重要的列，该列显示MySQL在查询
 | select tables optimized away | 在没有GROUP BY子句的情况下，基于索引优化MIN/MAX操作，或者对于MyISAM存储引擎优化COUNT(*)操作，不必等到执行阶段再进行计算，查询执行计划生成的阶段即完成优化。                                                                                                                                                |
 | distinct                     | 优化distinct操作，在找到第一匹配的元组后即停止找同样值的动作                                                                                                                                                                                                          |
 
-
-
+# 参考文档
+[1] https://dev.mysql.com/doc/refman/8.0/en/explain-output.html
