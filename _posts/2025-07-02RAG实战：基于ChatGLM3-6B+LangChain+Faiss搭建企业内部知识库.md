@@ -316,7 +316,7 @@ kb_list = [x["kb_name"] for x in api.list_knowledge_bases()]
 解决方案如下：
 pip install httpx==0.27.2
 
-### Faiss 启动
+### xinference 启动
 ```
 xinference-local --host 0.0.0.0 --port 9997
 ```
