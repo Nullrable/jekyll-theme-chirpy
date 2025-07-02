@@ -76,6 +76,7 @@ pip install -r requirements.txt
 ```
 
 csv 转 训练数据 [finetuen.csv](/assets/finetuen.csv)
+
 ```python
 import csv
 import json
