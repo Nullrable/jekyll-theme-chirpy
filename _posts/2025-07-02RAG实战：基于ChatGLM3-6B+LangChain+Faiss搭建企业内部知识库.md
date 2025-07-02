@@ -304,7 +304,7 @@ docker pull ccr.ccs.tencentyun.com/langchain-chatchat/chatchat:0.3.1.3-93e2c87-2
 
 
 ### 遇到问题
-```shell
+```
 File "/Users/lusudong/Documents/nhsoft-work/Langchain-Chatchat-master/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 600, in _run_script
 exec(code, module.__dict__)
 File "/Users/lusudong/Documents/nhsoft-work/Langchain-Chatchat-master/venv/lib/python3.9/site-packages/chatchat/webui.py", line 71, in <module>
@@ -316,6 +316,9 @@ kb_list = [x["kb_name"] for x in api.list_knowledge_bases()]
 解决方案如下：
 pip install httpx==0.27.2
 
-
+### Faiss 启动
+```
+xinference-local --host 0.0.0.0 --port 9997
+```
 
 
