@@ -39,7 +39,9 @@ jobs:
       - run: bundle exec jekyll build --baseurl ${{ steps.pages.outputs.base_path }} # defaults output to '/_site'
       - name: Upload artifact
         uses: actions/upload-artifact@v4 # This will automatically upload an artifact from the '/_site' directory
-
+        with:
+          name: my-artifact # NOTE: same artifact name
+          path: file-${{ matrix.runs-on }}.txt
   # Deployment job
   deploy:
     environment:
