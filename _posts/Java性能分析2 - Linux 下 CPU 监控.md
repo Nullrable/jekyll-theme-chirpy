@@ -143,6 +143,8 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.   2704.4 avail Mem
 ## 1、FastThread
 将 jstack.log 上传到 fastthread 网站，分析结果如下：
 ![img.png](../assets/img/nhsoft_lsd/dad2ss.png)
+![img.png](../assets/img/nhsoft_lsd/java_performance.png)
+![img_1.png](../assets/img/nhsoft_lsd/java_performance2.png)
 
 # 2、ChatGPT 等大数据模型进行分析
 结果如下，可以发现大模型分析和定位的结果还是蛮正确的
