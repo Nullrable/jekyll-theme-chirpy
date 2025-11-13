@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+gem "logger"
 
 source "https://rubygems.org"
 
