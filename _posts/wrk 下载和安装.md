@@ -1,3 +1,11 @@
+---
+title: wrk 下载和安装
+author: nhsoft.lsd
+date: 2025-11-14
+categories: [工具]
+pin: false
+---
+
 在国内环境下载 `wrk` 时，由于 GitHub 访问可能不稳定，可通过 **国内镜像源** 或 **直接下载源码包** 两种方式解决。以下是适配国内网络的下载方法：
 
 ### 一、通过 Gitee 镜像仓库下载（推荐）

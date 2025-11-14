@@ -1,3 +1,11 @@
+---
+title: Java 并发编程 -ThreadPoolExecutor
+author: nhsoft.lsd
+date: 2025-11-14
+categories: [Java, 并发编程]
+pin: false
+---
+
 ThreadPoolExecutor 线程池中的核心线程**不会自动销毁**，而是会根据线程池的配置（核心参数）和状态，在特定条件下被**回收（销毁）** 或**复用**，核心原则是：**尽量复用线程以减少创建/销毁开销，仅在空闲时间过长或线程池收缩时销毁线程**。
 
 
