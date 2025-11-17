@@ -245,7 +245,7 @@ Histogram 视图：
 - 可以看到该类所有实例及引用链
 ```
 
-![img.png](img.png)
+![img.png](../assets/img/nhsoft_lsd/img_12321321.png)
 
 ## 方法四：jstat 监控
 实时监控 GC 和内存（每秒刷新） jstat -gcutil 45458 1000
