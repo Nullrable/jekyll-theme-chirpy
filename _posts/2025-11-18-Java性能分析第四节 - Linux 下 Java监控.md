@@ -15,7 +15,7 @@ pin: false
 
 # JVM 监控
 ## 一、Linux 下 JVM 内存监控
-Linux 下 常用 JVM 内存命令可以查看 [Java性能分析第三节 - Linux 下 内存监控.md](Java%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90%E7%AC%AC%E4%B8%89%E8%8A%82%20-%20Linux%20%E4%B8%8B%20%E5%86%85%E5%AD%98%E7%9B%91%E6%8E%A7.md)
+Linux 下 常用 JVM 内存命令可以查看 **Java性能分析第三节 - Linux 下 内存监控**
 这里主要介绍以下两种方式实现 JVM 监控
 
 ## 二、代码实现打印 JVM 监控
