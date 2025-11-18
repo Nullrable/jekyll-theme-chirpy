@@ -8,7 +8,7 @@ pin: false
 
 # 一、基本信息和工具
 - 服务器配置 阿里云上ECS服务器，配置为*2核4G*为例
-- 压测工具 `wrk`, 下载见 [wrk 下载和安装.md](wrk%20%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AE%89%E8%A3%85.md)
+- 压测工具 `wrk`, 下载见 wrk下载和安装
 - 压测脚本 `wrk -t 2 -c 500 -d 60s --latency http://localhost:8080/json?count=1000`
 - Java 核心代码，用于压测，来观测CPU负载
 ```java

@@ -1,3 +1,11 @@
+---
+title: 深度解析springcloud分布式微服务的实现
+author: nhsoft.lsd
+date: 2025-11-14
+categories: [Java]
+pin: false
+---
+
 # 分布式系统
 微服务就是原来臃肿的项目拆分为多个模块互不关联。如：按照子服务拆分、数据库、接口，依次往下就更加细粒度，当然运维也就越来越难受了。
 
