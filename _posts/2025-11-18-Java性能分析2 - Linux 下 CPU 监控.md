@@ -2,7 +2,7 @@
 title: Java性能分析第二节 - Linux 下 CPU 监控.
 author: nhsoft.lsd
 date: 2025-10-25
-categories: [Java性能分析]
+categories: [Java,Java性能分析]
 pin: false
 ---
 
