@@ -43,7 +43,7 @@ OpenAI GPT API 的调用，并将在后续持续扩充对各类模型及模型 A
 
 🐳 Docker 镜像将会在近期更新。
 
-🧑‍💻 如果你想对本项目做出贡献，欢迎移步[开发指南](docs/contributing/README_dev.md) 获取更多开发部署相关信息。
+🧑‍💻 如果你想对本项目做出贡献，欢迎移步 开发指南 获取更多开发部署相关信息。
 
 ## 功能介绍
 
@@ -274,12 +274,12 @@ chatchat start -a
 
 ### 其它配置
 
-1. 数据库对话配置请移步这里 [数据库对话配置说明](docs/install/README_text2sql.md)
+1. 数据库对话配置请移步这里 数据库对话配置说明
 
 
 ### 源码安装部署/开发部署
 
-源码安装部署请参考 [开发指南](docs/contributing/README_dev.md)
+源码安装部署请参考 开发指南
 
 ### Docker 部署
 
