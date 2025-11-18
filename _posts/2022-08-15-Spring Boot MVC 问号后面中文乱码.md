@@ -2,7 +2,7 @@
 title: Spring Boot MVC 问号后面中文乱码
 author: nhsoft.lsd
 date: 2022-08-15
-categories: [故障解决,Spring]
+categories: [Java,故障解决]
 tags: [Spring,Tomcat]
 pin: false
 ---
