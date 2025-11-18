@@ -6,19 +6,6 @@ categories: [人工智能]
 pin: false
 ---
 
-## 目录
-
-* [概述](README.md#概述)
-* [功能介绍](README.md#功能介绍)
-  * [0.3.x 功能一览](README.md#03x-版本功能一览)
-  * [已支持的模型推理框架与模型](README.md#已支持的模型部署框架与模型)
-* [快速上手](README.md#快速上手)
-  * [pip 安装部署](README.md#pip-安装部署)
-  * [源码安装部署/开发部署](README.md#源码安装部署开发部署)
-  * [Docker 部署](README.md#docker-部署)
-* [项目里程碑](README.md#项目里程碑)
-* [联系我们](README.md#联系我们)
-
 ## 概述
 
 🤖️ 一种利用 [langchain](https://github.com/langchain-ai/langchain)
