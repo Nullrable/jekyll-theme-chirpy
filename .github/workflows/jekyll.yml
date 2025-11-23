@@ -28,7 +28,7 @@ jobs:
           bundler-cache: true
 
       - name: Build with Jekyll
-        run: production bundle exec jekyll b -d build --destination ./_site --config "$_config"
+        run: production bundle exec jekyll build --destination ./_site
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
