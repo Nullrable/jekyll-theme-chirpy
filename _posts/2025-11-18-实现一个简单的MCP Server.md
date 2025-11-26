@@ -78,7 +78,7 @@ mcp.run(transport='stdio')
 ![img_2.png](/assets/img/nhsoft_lsd/img_mcp_server_2.png)
 
 
-![img_3.png](weixin.png)
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
 
 公众号名称：怪味Coding
 微信扫码关注或搜索公众号名称
