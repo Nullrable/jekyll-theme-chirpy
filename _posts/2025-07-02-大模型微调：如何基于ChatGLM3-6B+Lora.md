@@ -359,3 +359,8 @@ token 不参与 `loss` 计算。
 5. 本仓库的微调数据集格式与 API 微调数据集格式有一定区别
   + ZhipuAI API 微调数据集中的 `messages` 字段在本仓库为 `conversation` 字段。
   + ZhipuAI API 中的微调文件为 `jsonl`, 在本仓库，需要简单的将文件名改为 `json`。
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

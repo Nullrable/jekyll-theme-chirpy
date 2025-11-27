@@ -13,3 +13,8 @@ spring.http.encoding.enabled=true
 spring.http.encoding.force=true
 ```
 2. Tomcat，在`server.xml`中的`Connector`标签增加`useBodyEncodingForURI="true"`
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

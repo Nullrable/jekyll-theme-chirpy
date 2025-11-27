@@ -162,3 +162,8 @@ if (casTabAt(tab, i, null, new Node(...))) {
 
 ## 九、结语
 JDK7 使用的是基于分段锁（Segment）的粗粒度并发控制方式；<br>JDK8 重构为基于数组 + CAS + synchronized 的精细化控制结构，整体性能和可扩展性更强；<br>JDK8 的设计更加符合现代硬件架构，适合大规模并发场景
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

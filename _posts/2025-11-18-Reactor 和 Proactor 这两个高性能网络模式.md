@@ -253,3 +253,7 @@ Reactor 可以理解为「来了事件操作系统通知应用进程，让应用
 
 原文地址：9.3 高性能网络模式：Reactor 和 Proactor | 小林coding
 
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

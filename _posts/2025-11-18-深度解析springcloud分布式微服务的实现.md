@@ -433,3 +433,8 @@ Spting-Cloud默认为zuul编写并开启一些过滤器。如果要禁用部分�
 zuul也整合了了hystrix和ribbon的， 提供降级回退，继承FallbackProvider 类 然后重写里面的方法。
 
 转载自并发编程网 – ifeve.com本文链接地址: 深度解析springcloud分布式微服务的实现
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

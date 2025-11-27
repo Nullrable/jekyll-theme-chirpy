@@ -295,3 +295,8 @@ private static Object createDynamicProxy(ClassLoader classLoader) {
   );
 }
 ```
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

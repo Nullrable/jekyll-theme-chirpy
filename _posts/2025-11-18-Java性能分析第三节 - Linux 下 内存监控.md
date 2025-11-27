@@ -283,3 +283,8 @@ jstat -gcnew 45458 1000
 
 ## 方法五：发生 OutOfMemoryError 时自动生成 Dump 文件
 在 JVM 启动参数中添加： -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/path/to/dumpfile.hprof
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

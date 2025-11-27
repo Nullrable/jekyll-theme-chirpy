@@ -111,3 +111,8 @@ ThreadPoolExecutor 的线程**不会自动销毁**，而是：
 - 线程池关闭时，所有线程会被强制销毁。
 
 这种设计的目的是**平衡性能和资源消耗**：复用线程减少创建/销毁开销，通过超时销毁避免空闲线程占用过多内存。
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>
