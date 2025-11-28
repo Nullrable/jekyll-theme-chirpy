@@ -2,8 +2,8 @@
 title: Claude Opus 4.5 发布：AI编码的下半场，已经开始
 author: nhsoft.lsd
 date: 2025-11-27
-categories: [Java
-tags: [AI,杂谈]]
+categories: [Java]
+tags: [AI,杂谈]
 pin: false
 ---
 
