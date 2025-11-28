@@ -24,3 +24,8 @@ pin: false
 写代码的方式变了，而真正的价值，从现在开始重新定义。 🚀
 
 —— 一个对未来保持期待的开发者
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>
