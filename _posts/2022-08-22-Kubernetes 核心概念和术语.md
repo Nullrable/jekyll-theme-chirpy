@@ -341,3 +341,8 @@ Namespace 通过将集群内部的资源对象"分配"到不同的 Namespace 中
 
 # 参考文献
 - [1][Kubernetes官方文档](https://kubernetes.io/zh-cn/docs/concepts/overview/what-is-kubernetes/)
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

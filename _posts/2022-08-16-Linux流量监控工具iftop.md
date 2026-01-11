@@ -96,3 +96,8 @@ sudo apt-get install iftop
 按!可以使用`shell`命令，这个没用过！没搞明白啥命令在这好用呢！
 
 按q退出监控。
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

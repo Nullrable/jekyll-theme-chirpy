@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: NJ部落                          # the main title
+title: 工程师部落                          # the main title
 
 tagline: 一群志同道合的程序员   # it will display as the sub-title
 
@@ -48,7 +48,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: G-T7Y3LEQR2E           # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -105,7 +105,7 @@ assets:
     enabled:      # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env:          # [development|production]
+    env: production        # [development|production]
 
 pwa:
   enabled: true   # the option for PWA feature

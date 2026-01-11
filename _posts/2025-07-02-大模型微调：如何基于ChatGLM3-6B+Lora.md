@@ -14,7 +14,7 @@ pin: false
 
 运行示例需要 `python>=3.10`，除基础的 `torch` 依赖外，示例代码运行还需要依赖。
 
-**我们提供了 [示例notebook](lora_finetune.ipynb) 用于演示如何使用我们的微调代码。**
+**我们提供了 [示例notebook]lora_finetune.ipynb 用于演示如何使用我们的微调代码。**
 
 ```bash
 pip install -r requirements.txt
@@ -359,3 +359,8 @@ token 不参与 `loss` 计算。
 5. 本仓库的微调数据集格式与 API 微调数据集格式有一定区别
   + ZhipuAI API 微调数据集中的 `messages` 字段在本仓库为 `conversation` 字段。
   + ZhipuAI API 中的微调文件为 `jsonl`, 在本仓库，需要简单的将文件名改为 `json`。
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

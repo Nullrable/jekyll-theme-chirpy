@@ -101,3 +101,8 @@ Extra是EXPLAIN输出中另外一个很重要的列，该列显示MySQL在查询
 
 # 参考文档
 [1] https://dev.mysql.com/doc/refman/8.0/en/explain-output.html
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

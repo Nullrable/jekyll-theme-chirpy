@@ -2,7 +2,7 @@
 title: 解决Http Code 413(Request Entity Too Large) 错误
 author: nhsoft.lsd
 date: 2022-08-03
-categories: [故障解决,IO]
+categories: [Java,故障解决]
 tags: [BugFix]
 pin: false
 ---
@@ -49,3 +49,8 @@ public class NettyConfig implements WebServerFactoryCustomizer<NettyReactiveWebS
     }
 }
 ```
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

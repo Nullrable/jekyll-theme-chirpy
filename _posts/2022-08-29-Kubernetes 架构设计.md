@@ -71,3 +71,8 @@ Controller Manager 作为集群内部的管理控制中心，负责集群内的 
 >- 状态应该是可恢复或可重新发现的
 >- 支持简单的启动临时实例来创建稳态运行所需要的状态；使用分布式锁或文件锁等来协调不同状态的切换（通常称为pivoting技术）
 >- 自动重启异常退出的服务，比如副本或者进程管理器等
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

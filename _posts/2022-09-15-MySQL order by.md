@@ -53,3 +53,8 @@ select VARIABLE_VALUE into @b from performance_schema.session_status where varia
 
 /* 计算 Innodb_rows_read 差值 */
 select @b-@a;
+
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>

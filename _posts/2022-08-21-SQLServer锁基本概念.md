@@ -40,3 +40,7 @@ pin: false
 * 共享锁：共享锁锁定的资源可以被其他用户读取，但其他用户无法修改它，在执行Select时，SQL Server会对对象加共享锁。
 * 更新锁：当SQL Server准备更新数据时，它首先对数据对象作更新锁锁定，这样数据将不能被修改，但可以读取。等到SQL Server确定要进行更新数据操作时，他会自动将更新锁换为独占锁，当对象上有其他锁存在时，无法对其加更新锁。 
 
+![weixin.png](/assets/img/nhsoft_lsd/weixin.png)
+
+<div style="text-align: center;">公众号名称：怪味Coding</div>
+<div style="text-align: center;">微信扫码关注或搜索公众号名称</div>
