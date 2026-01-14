@@ -1,3 +1,11 @@
+---
+title: Java 高级工程师面试题 - 第二章 - 并发与多线程
+author: nhsoft.lsd
+date: 2026-01-14
+categories: [Java]
+pin: false
+---
+
 # 第二章：并发与多线程
 
 ## 2.1 线程基础（8题）

@@ -1,3 +1,11 @@
+---
+title: Java 高级工程师面试题 - 第四章：Spring生态（30题）详解
+author: nhsoft.lsd
+date: 2026-01-14
+categories: [Java]
+pin: false
+---
+
 # 第四章：Spring生态（30题）详解
 
 ## 4.1 Spring Core（10题）

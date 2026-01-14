@@ -1,3 +1,11 @@
+---
+title: Java 高级工程师面试题 - 架构设计（20题）
+author: nhsoft.lsd
+date: 2026-01-14
+categories: [Java]
+pin: false
+---
+
 # 第七章：架构设计（20题）
 
 ## 7.1 高性能（7题）

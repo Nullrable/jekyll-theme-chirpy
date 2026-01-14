@@ -1,3 +1,11 @@
+---
+title: Java 高级工程师面试题 - 第六章：Redis 面试题详解（25题）
+author: nhsoft.lsd
+date: 2026-01-14
+categories: [Java]
+pin: false
+---
+
 # 第六章：Redis 面试题详解（25题）
 
 ## 6.1 数据结构（6题）

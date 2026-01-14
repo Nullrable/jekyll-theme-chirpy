@@ -1,3 +1,11 @@
+---
+title: Java 高级工程师面试题 - 第一章：JVM（30题）
+author: nhsoft.lsd
+date: 2026-01-14
+categories: [Java]
+pin: false
+---
+
 # Java 高级工程师面试题 - 第一章：JVM（30题）
 
 ---

@@ -1,3 +1,11 @@
+---
+title: Java 高级工程师面试题 - 第五章：MySQL 深度解析（30题）
+author: nhsoft.lsd
+date: 2026-01-14
+categories: [Java]
+pin: false
+---
+
 # 第五章：MySQL 深度解析（30题）
 
 ## 5.1 索引原理（8题）

@@ -1,3 +1,11 @@
+---
+title: Java 高级工程师面试题 - 分布式系统（30题）
+author: nhsoft.lsd
+date: 2026-01-14
+categories: [Java]
+pin: false
+---
+
 # 第三章：分布式系统（30题）
 
 ## 3.1 分布式理论（6题）
